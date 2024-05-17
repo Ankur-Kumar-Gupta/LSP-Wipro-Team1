@@ -4,8 +4,8 @@ Wipro Linux System Progrmming Team1 Code
 ## Team member names:
 1-  Arpita k shetty  
 2-  Gowtham Kumar K   
-3-  
-4-  
-5-  
-6-  
+3-  Meena G
+4-  Rajendra Naidu B 
+5-  Niranjan Kumar D
+6-  Akshatha A  
 7-  
